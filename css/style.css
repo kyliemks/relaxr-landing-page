@@ -1,0 +1,147 @@
+Project Name: Blank Template
+Client: Your Client
+Author: Your Name
+Developer @GA in NYC
+
+
+/******************************************
+/* SETUP
+/*******************************************/
+
+/* Box Model Hack */
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+
+.hero {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url("../images/header_bg.jpg");
+	background-position: center;
+	padding-bottom: 500px;
+}
+		
+#relaxr {
+	font-weight: 800;
+	font-size: 48px;
+	color: #fff;
+	font-family: 'Open Sans', San-serif;
+}
+
+#line-one { 
+font-weight: 700;
+font-size: 48px;
+color: #fff;
+font-family: 'Open Sans', San-serif;
+}
+
+.button-one { 
+	background-color: #f9e42e;
+	border: 5px;
+	color: #000;
+	text-align: center;
+	display: inline-block;
+	font-size: 28px;
+	font-weight: 800;
+	margin-top: 300px;
+	margin-left: 520px;
+}
+
+.middle {
+	background-color: #f0efef;
+	padding-bottom: 400px;
+}
+
+#benefits {
+	font-size: 40px;
+	font-weight: 600;
+	color: #000;
+}
+
+p {
+	font-weight: 300;
+	font-size: 26px;
+}
+
+ul {
+	font-weight: 300;
+	font-size: 26px;
+}
+
+.waves {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url("../images/testimonial_bg.jpg");
+	background-position: center;
+	padding-bottom: 300px;
+}
+
+blockquote p {
+	font-weight: 300;
+	font-style: italic;
+	color: #fff;
+	text-align: center;
+}
+
+h3 {
+	color: #fff;
+	font-weight: 600;
+	font-size: 36px;
+	text-align: center;
+}
+
+.lemon {
+	background-color: #f9e42e;
+	padding-bottom: 50px;
+}
+
+.button-two {
+	background-color: #033048;
+	border: 5px;
+	color: #fff;
+	text-align: center;
+	display: inline-block;
+	font-size: 24px;
+	font-weight: 800;
+	margin-left: 520px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.footer {
+	background-color: #121212;
+	padding-bottom: 300px;
+}
+
+h4 {
+	color: #f9e42e;
+	font-weight: 800;
+	font-size: 48px;
+	text-align: center;
+}
+
+h5 {
+	font-weight: 600;
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+}
+/**********************
+********************
+/* LAYOUT
+/*******************************************/
+
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+/*
+Notes:
+to style link:
+a:link {color:#;}
+a:hover{:;}
+*/
